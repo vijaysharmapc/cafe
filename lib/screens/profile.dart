@@ -43,7 +43,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     "assets/coffee_break.svg",
                     height: MediaQuery.of(context).size.height / 3,
                     width: MediaQuery.of(context).size.width,
-                    semanticsLabel: 'Wired Brain Coffee',
+                    semanticsLabel: 'True Shot Coffee',
                     fit: BoxFit.fitWidth,
                   ),
                 ],

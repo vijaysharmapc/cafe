@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "844274617864",
+    "firebase_url": "https://teejay-7b6a1-default-rtdb.firebaseio.com",
+    "project_id": "teejay-7b6a1",
+    "storage_bucket": "teejay-7b6a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844274617864:android:69a4a2871d456f9c82cbbd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844274617864-ksj3rr9vdbn0gperb9d067oebsqcnff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYRgAPrV68AQ9yqTD4ZFCtdGPJbaSAho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844274617864-ksj3rr9vdbn0gperb9d067oebsqcnff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844274617864:android:c7ddf9795be3b20c82cbbd",
+        "android_client_info": {
+          "package_name": "io.teejay.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844274617864-62jthbn7i90mv3elgc1ltf20nfgo6rd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.teejay.app",
+            "certificate_hash": "33141fb3506f0bdca5a7d0226296b82202fa09b9"
+          }
+        },
+        {
+          "client_id": "844274617864-ksj3rr9vdbn0gperb9d067oebsqcnff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYRgAPrV68AQ9yqTD4ZFCtdGPJbaSAho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844274617864-ksj3rr9vdbn0gperb9d067oebsqcnff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844274617864:android:7be595c08ef0958382cbbd",
+        "android_client_info": {
+          "package_name": "io.wiredbrain.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844274617864-lgp4r6b6auqbft67cjt8bq8qhratbctc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.wiredbrain.app",
+            "certificate_hash": "33141fb3506f0bdca5a7d0226296b82202fa09b9"
+          }
+        },
+        {
+          "client_id": "844274617864-ksj3rr9vdbn0gperb9d067oebsqcnff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYRgAPrV68AQ9yqTD4ZFCtdGPJbaSAho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844274617864-ksj3rr9vdbn0gperb9d067oebsqcnff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

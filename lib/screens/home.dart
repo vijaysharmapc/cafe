@@ -24,14 +24,14 @@ class HomeScreen extends StatelessWidget {
           children: <Widget>[
             Image.asset(
               "assets/logo.png",
-              height: 150,
-              width: 150,
+              height: 180,
+              width: 180,
             ),
             SvgPicture.asset(
               "assets/hangout.svg",
               height: MediaQuery.of(context).size.height / 3,
               width: MediaQuery.of(context).size.width,
-              semanticsLabel: 'Wired Brain Coffee',
+              semanticsLabel: 'TrueShot Coffee',
               fit: BoxFit.fitWidth,
             ),
             Text(

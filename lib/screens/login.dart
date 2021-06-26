@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'dart:io';
+//import 'dart:io';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
@@ -83,7 +83,7 @@ class _LoginScreenState extends State<LoginScreen> {
             Center(
               child: SvgPicture.asset(
                 "assets/hotbeverage.svg",
-                height: MediaQuery.of(context).size.height / 3,
+                height: MediaQuery.of(context).size.height / 4,
                 width: MediaQuery.of(context).size.width,
                 semanticsLabel: 'Wired Brain Coffee',
                 fit: BoxFit.fitWidth,
@@ -148,6 +148,7 @@ class _LoginScreenState extends State<LoginScreen> {
     );
   }
 
+  // ignore: unused_element
   Future<void> _displayTextInputDialog(BuildContext context) async {
     return showDialog(
       context: context,

@@ -59,7 +59,7 @@ class _LoginEmailScreenState extends State<LoginEmailScreen> {
                 Center(
                   child: SvgPicture.asset(
                     "assets/hotbeverage.svg",
-                    height: MediaQuery.of(context).size.height / 3,
+                    height: MediaQuery.of(context).size.height / 4,
                     width: MediaQuery.of(context).size.width,
                     semanticsLabel: 'Wired Brain Coffee',
                     fit: BoxFit.fitWidth,

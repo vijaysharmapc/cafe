@@ -55,7 +55,7 @@ class _MenuScreenState extends State<MenuScreen> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        title: Text("Welcome to the WiredBrain"),
+        title: Text("Welcome to the TrueShot"),
         centerTitle: true,
       ),
       body: tabs[_selectedIndex],
